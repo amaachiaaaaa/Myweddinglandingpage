@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+   
+#header-bgg{
+    background-image: url(../Images/weddingheader4.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+#logo{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    font-weight: bolder;
+    color: aliceblue;
+    
+}
+
+#nav-links{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    background-color: rgba(0, 0, 0, 0.281);
+    
+    
+}
+
+#nav-item{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 40pt;
+    text-decoration: none;
+    list-style: none;
+}
+
+.navitem{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.navitem:hover{
+    color: red;
+}
+    
+.headertext{
+    margin-top: 80px;
+    padding-left: 10rem;
+    padding-top: 5rem;
+    
+    
+}
+.headertext h4{
+    margin-top: 10px;
+    font-family: sans-serif;
+    color: brown;
+}
+
+.headertext h1{
+    color: red;
+    font-size: 30pt;
+}
+
+.headertext p{
+    color: brown;
+}
+
+.btn{
+    border-radius: 2rem;
+    border: none;
+    background-color: brown;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: aliceblue;
+}
+#text{
+    color: rgba(255, 0, 0, 0.589);
+    font-size: 40pt;
+    font-weight: bolder;
+}
+
+#text-t{
+    font-size: 15pt;
+    color: aliceblue;
+}
+
+#textttt{
+    font-size: 15pt;
+    color: rgba(255, 0, 0, 0.473);
+    margin-top: 5rem;
+    
+}
+
+.section-text{
+    text-align: center;
+}
+
+.section-text h1{
+    font-size: 20pt;
+    color: rgba(255, 0, 0, 0.795);
+}
+
+.section-text h4{
+    color: brown;
+}
+
+
+  
+
+
